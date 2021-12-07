@@ -1,0 +1,11 @@
+Sun,1988500,0,0,695700,
+Mercury,0.33011,46.002,0,2439.7
+Venus,4.8675,107.476,0,6051.8
+Earth,5.9724,147.092,0,6371
+Mars,0.64171,206.617,0,3389.5
+Jupiter,1898.19,740.522,0,69911
+Saturn,568.34,1352.555,0,58232
+Uranus,86.813,2741.302,0,25362
+Neptune,102.413,4444.449,0,24622
+--------------
+Order is Name, Mass(x10^24kg), Perihelion(x10^6km), Initial Tangential Velocity (km/h), Mean Volumetric Radius (km)
